@@ -2939,6 +2939,9 @@ figcaption {
   min-height: 766px;
   border: none;
   border-radius: 3px;
+  display: block;
+  visibility: visible;
+  opacity: 1;
 }
 
 .form-input-3 {
